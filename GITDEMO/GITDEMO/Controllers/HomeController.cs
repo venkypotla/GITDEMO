@@ -12,6 +12,7 @@ namespace GITDEMO.Controllers
         {
         ViewBag.name="venky";
           ViewBag.name="venky potla";
+            ViewBag.name="venki";
             return View();
         }
 
