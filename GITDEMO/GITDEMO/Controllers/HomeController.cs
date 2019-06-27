@@ -11,6 +11,7 @@ namespace GITDEMO.Controllers
         public ActionResult Index()
         {
         ViewBag.name="venky";
+          ViewBag.name="venky potla";
             return View();
         }
 
