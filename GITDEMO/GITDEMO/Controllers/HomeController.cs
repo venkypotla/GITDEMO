@@ -10,7 +10,7 @@ namespace GITDEMO.Controllers
     {
         public ActionResult Index()
         {
-        viewbag.name="venky";
+        ViewBag.name="venky";
             return View();
         }
 
